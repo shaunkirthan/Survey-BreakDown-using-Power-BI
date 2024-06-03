@@ -2,8 +2,6 @@
 
 **GitHub: Sep 2023 – Oct 2023**
 
-![Data Professional Survey Breakdown](./path/to/your/image.png)
-
 ## Developed an Interactive Power BI Dashboard
 - Analyzed demographics and preferences of 630 data professionals.
 
